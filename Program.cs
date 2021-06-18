@@ -19,10 +19,10 @@ namespace _2_CriandoVariaveis
             idade = 10;
             Console.WriteLine(idade);
 
-            idade = 10 + 5;
+            idade = 10 + 6;
             Console.WriteLine(idade);
 
-            idade = 10 + 5 * 2;
+            idade = 10 + 7 * 2;
             Console.WriteLine(idade);
 
             idade = (10 + 5) * 2;
