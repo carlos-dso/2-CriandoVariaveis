@@ -28,7 +28,7 @@ namespace _2_CriandoVariaveis
             idade = (10 + 5) * 2;
             Console.WriteLine("Minha idade é " + idade + "!");
 
-            Console.WriteLine("Execução finalizada Tecle enter para sair");
+            Console.WriteLine("Execução finalizada Tecle enter para fechar");
             Console.ReadLine();
 
         }
